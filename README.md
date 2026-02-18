@@ -13,6 +13,7 @@ Use this template:
 ```
 
 # Contributors
+Siddharth J P (https://github.com/jpsiddharth2008)
 
 [Pranay Vinod](https://github.com/Pranay-vinod07)
 [Krithikaa](https://github.com/KrithikaaSivakumar)
