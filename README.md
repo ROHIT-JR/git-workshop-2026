@@ -13,6 +13,5 @@ Use this template:
 
 # Contributors
 
-```
+
 [ROHIT](https://github.com/ROHIT-JR)
-```
