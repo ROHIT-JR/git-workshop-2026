@@ -13,4 +13,8 @@ Use this template:
 ```
 
 # Contributors
+
 [Dhesshwin-B-G](https://github.com/Dhesshwin-B-G)
+[Shalini Arthirajan](https://github.com/shalini-arthirajan)
+[Shyam](https://github.com/LuminaryNova)
+[Bhargava](https://github.com/Bhargi777)
