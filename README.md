@@ -14,6 +14,7 @@ Use this template:
 
 # Contributors
 
+[Rohit](https://github.com/secantwave)
 [Dhesshwin-B-G](https://github.com/Dhesshwin-B-G)
 [Shalini Arthirajan](https://github.com/shalini-arthirajan)
 [Shyam](https://github.com/LuminaryNova)
